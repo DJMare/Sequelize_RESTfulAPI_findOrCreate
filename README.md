@@ -70,6 +70,8 @@ VS CODE
 
 (16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: ![In models folder create rel folder and an associations js file in the rel folder (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036366-8c366580-20eb-11ea-9fbd-fd183ac4a200.JPG)
 
+![Update the associations js file in the rel folder (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036461-c273e500-20eb-11ea-98f7-9c019dcb317a.JPG)
+
 (17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: 
 
 (18) Open config/config.json file and change settings to connect to the database.: 
