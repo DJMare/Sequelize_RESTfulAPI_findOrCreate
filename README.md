@@ -83,7 +83,7 @@ VS CODE
 
 (21) In the routes/index.js file require the models.: ![Require models in routes-index js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71037169-2b0f9180-20ed-11ea-9b51-56dc2ca0d29a.JPG)
 
-(22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: 
+(22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: ![Add post() route for actors id in index js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71037210-41b5e880-20ed-11ea-9720-ec110f258b84.JPG)
 
 COMMAND PROMPT
 
@@ -93,7 +93,7 @@ COMMAND PROMPT
 
 POSTMAN
 
-(24) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a GET request to view data.: 
+(24) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a POST request to add data.
 
 NODEMON NOTE
 
