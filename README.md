@@ -19,13 +19,13 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_Sequelize_RESTfulAPI_: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_Sequelize_RESTfulAPI_findOrCreate: 
 
-    express --view=hbs express_Sequelize_RESTfulAPI_
+    express --view=hbs express_Sequelize_RESTfulAPI_findOrCreate
 
-(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_findOrCreate directory: 
 
-    cd express_Sequelize_RESTfulAPI_
+    cd express_Sequelize_RESTfulAPI_findOrCreate
     
 (7) Now in the express_Sequelize_RESTfulAPI_ directory, run the following: 
 
