@@ -27,7 +27,7 @@ COMMAND PROMPT
 
     cd express_Sequelize_RESTfulAPI_findOrCreate
     
-(7) Now in the express_Sequelize_RESTfulAPI_ directory, run the following: 
+(7) Now in the express_Sequelize_RESTfulAPI_findOrCreate directory, run the following: 
 
     npm install
 
@@ -35,7 +35,7 @@ COMMAND PROMPT
 
     npm install -g nodemon
     
-(9) Install Nodemon as a devDependency in the package.json file within the express_Sequelize_RESTfulAPI_ directory:
+(9) Install Nodemon as a devDependency in the package.json file within the express_Sequelize_RESTfulAPI_findOrCreate directory:
 
     npm install -save-dev nodemon
     
