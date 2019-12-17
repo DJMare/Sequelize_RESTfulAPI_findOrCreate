@@ -54,7 +54,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and require mysql2 and models in routes/index.js file.: ![Require mysql2 in routes-index js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858318-fb367300-1ecd-11ea-8c6b-92f7b493ba95.JPG)
+(13) Navigate to the routes/index.js file and require mysql2 and models in routes/index.js file.: 
 
 COMMAND PROMPT
 
@@ -68,9 +68,9 @@ COMMAND PROMPT
     
 VS CODE
 
-(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: ![In models folder create rel folder and an associations js file in the rel folder (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858332-2620c700-1ece-11ea-8e40-f99453ebb8e2.JPG)
+(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: 
 
-(17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: ![Call associations function in models-index js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858339-56686580-1ece-11ea-9292-c022c3e8fa47.JPG)
+(17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: 
 
 (18) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858345-7f88f600-1ece-11ea-962d-d34b48cefeb9.JPG)
 
