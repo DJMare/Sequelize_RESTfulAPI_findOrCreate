@@ -81,7 +81,7 @@ VS CODE
 (20) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: Add models sequelize sync in app js file (Sequelized_RESTfulAPI_Post)
 ![Add models sequelize sync in app js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036937-a7ee3b80-20ec-11ea-8532-7c348c75bdf7.JPG)
 
-(21) In the routes/index.js file require the models.: 
+(21) In the routes/index.js file require the models.: ![Require models in routes-index js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71037169-2b0f9180-20ed-11ea-9b51-56dc2ca0d29a.JPG)
 
 (22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: 
 
