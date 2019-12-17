@@ -76,11 +76,12 @@ VS CODE
 
 (18) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036821-6a89ae00-20ec-11ea-8a63-23d07fad07f2.JPG)
 
-(19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
+(19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: ![Add models sequelize sync in app js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036937-a7ee3b80-20ec-11ea-8532-7c348c75bdf7.JPG)
 
 (20) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: Add models sequelize sync in app js file (Sequelized_RESTfulAPI_Post)
+![Add models sequelize sync in app js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036937-a7ee3b80-20ec-11ea-8532-7c348c75bdf7.JPG)
 
-(21) In the routes/index.js file require the models.: ![Call associations function in models-index js file (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036542-e9321b80-20eb-11ea-919a-070544c33cf9.JPG)
+(21) In the routes/index.js file require the models.: 
 
 (22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: 
 
